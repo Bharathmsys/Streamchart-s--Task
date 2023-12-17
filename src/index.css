@@ -11,3 +11,61 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.heading{
+  padding: 10px;
+  margin-left: 10px;
+}
+.title{
+  margin-left: 35%;
+  color: darkgray;
+  /* font-size: 12px; */
+  font-family: sans-serif;
+}
+.maincontainer{
+  margin-bottom: 3%;
+}
+.container{
+  margin: 15px;
+  margin-left: 30px;
+}
+.table-head{
+  background-color:rgb(74, 72, 72);
+  font-size: 20px;
+  padding: 25px;
+  color: white;
+}
+.table{
+  background-color:aliceblue;
+  border-radius: 15px;
+}
+.table-row{
+  width: 180px;
+ 
+}
+.table-data{
+  padding: 20px;
+  font-size: 25px;
+}
+.table-rows{
+  width: 180px;
+ 
+}
+.table-rows1{
+  width: 230px;
+ 
+}
+.card-data-container{
+  margin-left: 30px;
+}
+.card-data{
+  background-color: aliceblue;
+  width:250px;
+  padding: 10px;
+  text-align: center;
+  margin: 15px;
+  border-radius: 10px;
+}
+.heading{
+  padding: 20px;
+  
+}

@@ -1,0 +1,8 @@
+[
+    { "name": "S1", "SPPlanned": 100, "SPAdded": 70 , "SPCompleted":0,"SPForcecast":0},
+    { "name": "S2", "SPPlanned": 150, "SPAdded": 100, "SPCompleted":0,"SPForcecast":0 },
+    { "name": "S3","SPPlanned":80, "SPAdded": 80,"SPCompleted":50 , "SPForcecast":0},
+    { "name": "S4", "SPPlanned": 130, "SPAdded": 70, "SPCompleted":30,"SPForcecast":0 },
+    { "name": "S5", "SPPlanned": 90, "SPAdded": 90 , "SPCompleted":50,"SPForcecast":0},
+    { "name": "ForceCast 1", "SPPlanned": 0,"SPAdded":0, "SPCompleted":0,"SPForcecast":100 }
+      ]

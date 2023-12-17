@@ -1,23 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
-
+import Barchart from './Components/Bar chart/Barchart'
+import Carddata from './Components/Sprint Card Data/Carddata';
+import Tablelist from './Components/Sprint Table List/Tablelist';
+import Streamchart from './Components/Stream Chart/Streamchart';
 function App() {
+ 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Streamchart/>
+      <Barchart/>
+      <Tablelist/>
+      <Carddata/>
     </div>
   );
 }

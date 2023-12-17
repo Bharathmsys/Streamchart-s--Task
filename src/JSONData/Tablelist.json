@@ -1,0 +1,37 @@
+[{
+    "name":"Sprint Name 1",
+    "status":"Done",
+    "startdate":"11/07/2022",
+    "enddate":"15/07/2022",
+    "completeddate":"15/07/2022"
+},{
+    "name":"Sprint Name 2",
+    "status":"InProgress",
+    "startdate":"17/07/2022",
+    "enddate":"23/07/2022",
+    "completeddate":"23/07/2022"
+},{
+    "name":"Sprint Name 3",
+    "status":"Done",
+    "startdate":"28/07/2022",
+    "enddate":"30/08/2022",
+    "completeddate":"30/08/2022"
+},{
+    "name":"Sprint Name 4",
+    "status":"Done",
+    "startdate":"28/08/2022",
+    "enddate":"17/09/2022",
+    "completeddate":"17/09/2022"
+},{
+    "name":"Sprint Name 5",
+    "status":"InProgress",
+    "startdate":"20/09/2022",
+    "enddate":"20/10/2022",
+    "completeddate":"20/10/2022"
+},{
+    "name":"Sprint Name 6",
+    "status":"Done",
+    "startdate":"25/10/2022",
+    "enddate":"05/11/2022",
+    "completeddate":"05/11/2022"
+}]

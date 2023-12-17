@@ -1,0 +1,44 @@
+ [
+    {
+      "month": "January",
+      "IssueOpen": [18.5, 20.5],
+      "IssueStarted": [16.5, 18.5],
+      "IssueCompleted": [15, 16.5]
+    },
+    {
+      "month": "February",
+      "IssueOpen": [19, 22],
+      "IssueStarted": [16, 19],
+      "IssueCompleted": [14, 16]
+    },
+    {
+      "month": "March",
+      "IssueOpen": [21, 25],
+      "IssueStarted": [17, 21],
+      "IssueCompleted": [13, 17]
+    },
+    {
+      "month": "April",
+      "IssueOpen": [22, 28],
+      "IssueStarted": [18, 22],
+      "IssueCompleted": [12, 18]
+    },
+    {
+      "month": "May",
+      "IssueOpen": [24, 30],
+      "IssueStarted": [19, 24],
+      "IssueCompleted": [11, 19]
+    },
+    {
+      "month": "June",
+      "IssueOpen": [27, 32],
+      "IssueStarted": [20, 27],
+      "IssueCompleted": [10, 20]
+    },
+    {
+      "month": "July",
+      "IssueOpen": [30, 36],
+      "IssueStarted": [23, 30],
+      "IssueCompleted": [8, 23]
+    }
+  ]
